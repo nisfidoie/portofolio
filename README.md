@@ -1,1 +1,7 @@
-# portofolio
+- portofolio
+  - index.html
+  - assets
+    - css
+      - style.css
+    - img
+      - (gambar-gambar Anda)
